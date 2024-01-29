@@ -15,7 +15,7 @@ This repository contains the source code for my personal portfolio website. I bu
 - **CSS**
 
 ## View My Portfolio
-To check out my portfolio, click [link will be added soon]
+To check out my portfolio, click [here](https://bucchigiri.github.io/portfolio-simple-website/)
 
 ## Contributing
 If you would like to contribute or suggest improvements, please feel free to open an issue or pull request. your feedback is gratly appreciated.
